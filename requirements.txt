@@ -1,0 +1,6 @@
+Django==1.11.13
+django-cors-headers==2.2.0
+djangorestframework==3.8.2
+drf-writable-nested==0.4.2
+Pillow==5.1.0
+pytz==2018.4
